@@ -13,8 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Pulkit Aggarwal, a Mobile Developer, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@CodingBlocks](https://github.com/coding-blocks/).
-I love working with android and i'm a GSoC student at [@Oppia](https://github.com/oppia/).
+Hi, I'm Pulkit Aggarwal, a Mobile Developer, who loves exploring different stuff, currently I'm a Android Mentor at 🙍🏽‍♂️ [@CodingBlocks](https://github.com/coding-blocks/) and GSoC student at [@Oppia](https://github.com/oppia/). 
 
 <br/>
 <br/>
