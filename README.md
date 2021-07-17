@@ -26,6 +26,6 @@ Hi, I'm Pulkit Aggarwal, a Mobile Developer, who loves exploring different stuff
 - 👨🏻‍💻 I’m looking to collaborate on kick ass products;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: pulkit.aggarwal@codingblocks.com;
+- 📫 How to reach me: aggarwalpulkit596@gmail.com;
 
 ![Tathagat's github stats](https://github-readme-stats.vercel.app/api?username=aggarwalpulkit596&show_icons=true&hide_border=true)
