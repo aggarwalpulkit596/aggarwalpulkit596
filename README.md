@@ -4,28 +4,36 @@
   <img align="left" alt="Pulkit Aggarwal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aggarwalpulkit596/">
-  <img align="left" alt="Pulkit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Pulkit's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@pulkitaggarwal_1799">
-  <img align="left" alt="Tathagat's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Pulkit's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Pulkit Aggarwal, a Mobile Developer, who loves exploring different stuff, currently I'm a Android Mentor at 🙍🏽‍♂️ [@CodingBlocks](https://github.com/coding-blocks/) and GSoC student at [@Oppia](https://github.com/oppia/). 
+Engineering leader based in New Delhi. I build and lead teams that ship mobile/backend platforms at scale — currently running Integrations engineering (Mobile + Backend) at **[Kulu Wallet](https://kuluwallet.com)**, shipping 12-15+ concurrent partner integrations on Guinea's national mobile money platform.
 
-<br/>
-<br/>
+**Impact, by the numbers:**
 
-  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+- 📈 Built a Kotlin Multiplatform analytics SDK powering **300M+ MAUs** at JioHotstar, driving an 18% lift in watch-time
+- ⚡ Cut iOS build times from 60+ min to ~25 min, and prototyped a Bazel migration bringing cold builds down to ~5 min at Kulu Wallet
+- 🚀 Accelerated feature time-to-market by **35%** by rebuilding CI/CD across 12+ repos at JioHotstar
+- 💸 As CTO at Slash, cut UPI payment failures by 23%, driving an estimated **$0.5M/mo GMV** increase
+- 🏆 Shipped 4 major launches (IPL, Big Boss) ahead of schedule with **0 release-day rollbacks**
 
-**Talking about Personal Stuffs:**
+**Stack:**
 
-- 🛠 Currently working with Kotlin, Java, Javascript, iOS, Firebase; 
-- 👨🏻‍💻 I’m looking to collaborate on kick ass products;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: aggarwalpulkit596@gmail.com;
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/-Kotlin%20Multiplatform-7F52FF?style=flat-square)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square)
+![Bazel](https://img.shields.io/badge/-Bazel-43A047?style=flat-square)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-![Tathagat's github stats](https://github-readme-stats.vercel.app/api?username=aggarwalpulkit596&show_icons=true&hide_border=true)
+- 🕰 Previously: Engineering Lead (Platform) @ JioHotstar (Viacom18) · CTO @ Slash (Greenbacks Technologies) · Founding team @ Coding Blocks
+- 🌱 [GSoC'20](https://gist.github.com/aggarwalpulkit596/84c23a09cd4244624092f2967b0eae38) @ [Oppia](https://github.com/oppia/) — Android interaction components & Bazel build system adoption
+- 🧪 Currently tinkering with: Bazel for Kotlin Multiplatform builds, and agentic dev tooling (Claude Code) in my own workflow
+- 📫 aggarwalpulkit596@gmail.com · [LinkedIn](https://www.linkedin.com/in/aggarwalpulkit596/)
