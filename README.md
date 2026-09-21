@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Engineering leader based in New Delhi. I build and lead teams that ship mobile/backend platforms at scale — currently running Integrations engineering (Mobile + Backend) at **[Kulu](https://kulu.com)**, shipping 12-15+ concurrent partner integrations on Guinea's mobile money platform.
+Engineering leader based in Dubai,UAE. I build and lead teams that ship mobile/backend platforms at scale — currently running Integrations engineering (Mobile + Backend) at **[Kulu](https://kulu.com)**, shipping 12-15+ concurrent partner integrations on Guinea's mobile money platform.
 
 **Impact, by the numbers:**
 
