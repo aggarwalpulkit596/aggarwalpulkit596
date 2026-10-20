@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Pulkit!]
+### Hey 👋, I'm Pulkit!
 
 <a href="https://twitter.com/pulkit596">
   <img align="left" alt="Pulkit Aggarwal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
